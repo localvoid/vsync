@@ -1,0 +1,9 @@
+name: vsync
+version: 0.0.1
+author: Boris Kaul <localvoid@gmail.com>
+description: VDom experiment
+dependencies:
+  browser: any
+dev_dependencies:
+  benchmark_harness: any
+  unittest: any
